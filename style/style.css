@@ -1,107 +1,82 @@
-body {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background: #1e242a;
 }
 
-#main {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  overflow: hidden;
+body {
+  min-height: 150vh;
 }
-#box1 {
-  width: 530px;
-  height: 625px;
-  background-image: url("https://img.freepik.com/free-photo/wall-wallpaper-concrete-colored-painted-textured-concept_53876-31799.jpg?size=626&ext=jpg&ga=GA1.2.1387257134.1609596613");
-  position: absolute;
-  bottom: -100%;
-  left: 30%;
-  animation: anim1 2 forwards, anim2 2s forwards 3s;
-}
-#box1:after {
-  content: "";
-  position: absolute;
-  width: 100%;
-  height: 625px;
-  background-image: url("../AJ\ Logo.png");
-  left: 0px;
-  z-index: -1;
-}
-@keyframes anim1 {
-  from {
-    bottom: -100%;
-  }
-  to {
-    bottom: 0%;
-  }
-}
-@keyframes anim2 {
-  from {
-    left: 30%;
-    width: 530px;
-  }
-  to {
-    width: 0px;
-    left: 50%;
-  }
-}
-#box2 {
-  width: auto;
-  height: auto;
-  color: white;
-  font-size: 10em;
-  line-height: 130px;
-  position: absolute;
-  top: 250px;
-  left: 100px;
-  overflow: hidden;
-}
-#text {
+section {
   position: relative;
-  left: -100%;
-  animation: anim3 2s forwards 3s;
-}
-@keyframes anim3 {
-  from {
-    left: -100%;
-  }
-  to {
-    left: 0%;
-  }
-}
-#box3 {
-  overflow: hidden;
-}
-#container {
   width: 100%;
-  position: absolute;
-  top: -100%;
-  animation: anim4 2s forwards 2.5s;
+  height: 100vh;
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAJ1BMVEU7WZkAgLIArO3UQzI2Rl0+UZIAsfMAsvfeNxHdQy4fRmA5QVUAhLeDQ21qAAABCElEQVR4nO3QQQGAIAAEMERARfrnpcN9+GwRVkqkj5p43jvxzZb41xXJSpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4ceLEiRMnTpw4OXuyAdPHrEGNCAzvAAAAAElFTkSuQmCC");
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  clip-path: circle(180vh at 50% -80vh);
 }
-@keyframes anim4 {
-  from {
-    top: -100%;
-  }
-  to {
-    top: 0%;
-  }
+section .heading {
+  max-width: 1000px;
+  text-align: center;
 }
-#logo {
-  float: left;
+section .heading h2 {
+  font-size: 5em;
+  color: white;
+  font-weight: 700;
+  font-family: "Quicksand", sans-serif;
 }
-#logo img {
-  width: 50px;
+#social_media_links ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-#menu {
-  float: right;
-  margin: 20px 150px 0 0;
-}
-#menu ul {
+#social_media_links ul li {
   list-style: none;
 }
-#menu ul li {
-  display: inline-block;
-  margin-left: 100px;
+#social_media_links ul li a {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  display: block;
+  text-align: center;
+  margin: 0 10px;
+  padding: 6px;
+  border-radius: 50%;
+  text-decoration: none;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3);
+  background: linear-gradient(0deg, #ddd, #fff);
+  transition: 0.5s;
+}
+#social_media_links ul li a:hover {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.9);
+}
+#social_media_links ul li i {
+  width: 100%;
+  height: 100%;
+  display: block;
+  background: linear-gradient(0deg, #fff, #ddd);
+  border-radius: 50%;
+  line-height: calc(60px - 12px);
+  font-size: 24px;
+  color: #262626;
+  transition: 0.5s;
+}
+#social_media_links ul li:nth-child(1) a:hover i {
+  color: #007bb5;
+}
+#social_media_links ul li:nth-child(2) a:hover i {
+  color: #000000;
+}
+#social_media_links ul li:nth-child(3) a:hover i {
+  color: #3b5998;
+}
+#social_media_links ul li:nth-child(4) a:hover i {
+  color: #e95950;
+}
+#social_media_links ul li:nth-child(5) a:hover i {
+  color: #55acee;
 }
