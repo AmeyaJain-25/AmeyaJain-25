@@ -4,5 +4,5 @@
 # GitHub Contributions
 ![Ameya Jain GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AmeyaJain-25)
 
-#Profile Hits
+# Profile Hits
 <img align="Center" src="https://profile-counter.glitch.me/AmeyaJain-25/count.svg" alt="Ameya Jain" />
