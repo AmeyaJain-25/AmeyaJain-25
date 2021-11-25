@@ -7,9 +7,9 @@
 🏗️Development is the thing which I love the most. Debugging code, reading and understanding others code to find the solution gives me some challenges which I love to solve them.<br />
 📝✏️I have 2 articles published on **GeeksForGeeks.** <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmeyaJain-25"/>
-<img src="https://github-readme-stats.vercel.app/api?username=AmeyaJain-25&show_icons=true&theme=tokyonight"/>
- 
+|<img src="https://github-readme-stats.vercel.app/api?username=AmeyaJain-25&show_icons=true&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmeyaJain-25"/>|
+|---|---|
+
  ---
 
 ## Connect with me  
