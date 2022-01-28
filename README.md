@@ -14,7 +14,7 @@
 
  ---
  
-### Here's my Contribution Snake Graph
+### My Contribution Snake Graph
 ![snake gif](https://github.com/AmeyaJain-25/AmeyaJain-25/blob/output/github-contribution-grid-snake.gif)
 
  ---
