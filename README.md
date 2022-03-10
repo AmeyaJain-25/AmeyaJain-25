@@ -4,7 +4,8 @@
 🏢I am currently working at [Mentro](https://mentro.tech/) as a SDE Intern - Frontend.<br />
 🏆🥇I am the **Web Dev Lead @GDSC-Dypcoe** & **Chairperson @Pradnyan ACM DYPCOE Student Chapter**.<br />
 💻I am a **Full-Stack Web Developer** and an **Open Source Contributor**.<br />
-🏗️Development is the thing which I love the most. Debugging code, reading and understanding others code to find the solution gives me some challenges which I love to solve them.<br />
+🏗️Development is my life.<br />
+👷‍♂️Working to strengthen my DSA skills.<br />
 📝✏️I have 2 articles published on **GeeksForGeeks.** <br />
 
  ---
