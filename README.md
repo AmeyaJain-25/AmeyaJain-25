@@ -1,12 +1,12 @@
 # Hello! I am Ameya Jain <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-👨‍🎓I am a Third Year Computer Engineering student, currently studying in D.Y. Patil College Of Engineering, Akurdi, Pune.<br />
-🏢I am currently working at [Mentro](https://mentro.tech/) as a SDE Intern - Frontend.<br />
-🏆🥇I am the **Web Dev Lead @GDSC-Dypcoe** & **Chairperson @Pradnyan ACM DYPCOE Student Chapter**.<br />
-💻I am a **Full-Stack Web Developer** and an **Open Source Contributor**.<br />
-🏗️Development is my life.<br />
-👷‍♂️Working to strengthen my DSA skills.<br />
-📝✏️I have 2 articles published on **GeeksForGeeks.** <br />
+👨‍🎓 I am a Third Year Computer Engineering student, currently studying in D.Y. Patil College Of Engineering, Akurdi, Pune.<br />
+🏢 I am currently working at [Mentro](https://mentro.tech/) as a SDE Intern - Frontend.<br />
+🏆 I am the **Web Dev Lead @GDSC-Dypcoe** & **Chairperson @Pradnyan ACM DYPCOE Student Chapter**.<br />
+💻 I am a **Full-Stack Web Developer** and an **Open Source Contributor**.<br />
+🏗️ Development is my life.<br />
+👷‍♂️ Working to strengthen my DSA skills.<br />
+📝 I have 2 articles published on **GeeksForGeeks.** <br />
 
  ---
  
