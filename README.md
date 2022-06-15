@@ -1,4 +1,4 @@
-# Hello! I am Ameya Jain <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! I am Ameya Jain
 
 👨‍🎓 I am a Third Year Computer Engineering student, currently studying in D.Y. Patil College Of Engineering, Akurdi, Pune.<br />
 🏢 I am Currently working at **Mentro** as a **SDE Intern - Frontend**.<br />
