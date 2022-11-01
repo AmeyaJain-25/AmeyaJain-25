@@ -1,12 +1,12 @@
 # Hello! I am Ameya Jain
 
-👨‍🎓 I am a Third Year Computer Engineering student, currently studying in D.Y. Patil College Of Engineering, Akurdi, Pune.<br />
-🏢 I am Currently working at **Mentro** as a **SDE Intern - Frontend**.<br />
-🏆 I am the **Web Dev Lead @GDSC-Dypcoe** & **Chairperson @Pradnyan ACM DYPCOE Student Chapter**.<br />
+👨‍🎓 I am a Final Year Computer Engineering student, currently studying in D.Y. Patil College Of Engineering, Akurdi, Pune.<br />
+🏢 I have worked at **Mentro** as a **SDE Intern - Frontend** and **Bytes Plex** as a **Frontend Developer Intern**.<br />
 💻 I am a **Full-Stack Web Developer** and an **Open Source Contributor**.<br />
+🏆 I was the **Web Dev Lead @GDSC-Dypcoe** & **Chairperson @Pradnyan ACM DYPCOE Student Chapter** in academic year 2021-2022.<br />
 🏗️ Development is my life.<br />
 👷‍♂️ Working to strengthen my DSA skills.<br />
-📝 I have 2 articles published on **GeeksForGeeks.** <br />
+📝 I have 1 **npm package** and 2 articles on **GeeksForGeeks.** published.<br />
 
  ---
  
