@@ -1,6 +1,6 @@
 # Hello! I am Ameya Jain
 
-👨‍🎓 I am currently working at **Upraised** as a **Software Engineer** and previously worked at **iNeuron** as a **Backend Developer**, **Mentro** as a **SDE Intern - Frontend** and **Bytes Plex** as a **Frontend Developer Intern**.<br />
+👨‍🎓 I am currently working at **FanCode** as a **Software Engineer - Frontend** and previously worked at **Upraised** as **Software Engineer**, **iNeuron** as a **Backend Developer**, **Mentro** as a **SDE Intern - Frontend** and **Bytes Plex** as a **Frontend Developer Intern**.<br />
 🏢 I have completed my Bachelor of Computer Engineering from D.Y. Patil College Of Engineering, Akurdi, Pune.<br />
 💻 I'm also fond of **Open Source Contributions**.<br />
 🏆 I was the **Web Dev Lead @GDSC-Dypcoe** & **Chairperson @Pradnyan ACM DYPCOE Student Chapter** in academic year 2021-2022.<br />
