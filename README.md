@@ -1,41 +1,65 @@
-# Hello! I am Ameya Jain
-
-👨‍🎓 I am currently working at **FanCode** as a **Software Engineer - Frontend** and previously worked at **Upraised** as **Software Engineer**, **iNeuron** as a **Backend Developer**, **Mentro** as a **SDE Intern - Frontend** and **Bytes Plex** as a **Frontend Developer Intern**.<br />
-🏢 I have completed my Bachelor of Computer Engineering from D.Y. Patil College Of Engineering, Akurdi, Pune.<br />
-💻 I'm also fond of **Open Source Contributions**.<br />
-🏆 I was the **Web Dev Lead @GDSC-Dypcoe** & **Chairperson @Pradnyan ACM DYPCOE Student Chapter** in academic year 2021-2022.<br />
-📝 I have 1 **npm package** and 2 articles on **GeeksForGeeks.** published.<br />
-🏗️ Development is my life.<br />
-👷‍♂️ Working everyday to be a better version of myself.<br />
-
- ---
- 
-|<img src="https://github-readme-stats.vercel.app/api?username=AmeyaJain-25&show_icons=true&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmeyaJain-25"/>|
-|---|---|
-
- ---
- 
-### Contribution Snake Graph
-![snake gif](https://github.com/AmeyaJain-25/AmeyaJain-25/blob/output/github-contribution-grid-snake.gif)
-
- ---
-
-### Connect with me
 <div align="center">
- <a href="https://www.linkedin.com/in/ameya25/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/AmeyaJain-25" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/AmeyaJain25" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ameya_j25" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+
+# Hey, I'm Ameya Jain 👋
+
+### Software Engineer @ FanCode  
+*Mumbai, India · Building across Web, Mobile & TV platforms*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameya25)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AmeyaJain25)
+[![Peerlist](https://img.shields.io/badge/Portfolio-FF7504?style=for-the-badge&logo=link&logoColor=white)](https://peerlist.io/ameyajain25/)
+
 </div>
 
-### I am so Popular 😉
-<img align="Center" src="https://profile-counter.glitch.me/AmeyaJain-25/count.svg" alt="Ameya Jain" />
-<!-- <img alt = "profile views" src="https://komarev.com/ghpvc/?username=AmeyaJain-25&color=brightgreen"> -->
+---
+
+## 🚀 About Me
+
+- 🏢 **Software Engineer @ FanCode**
+- 🧠 Fullstack engineer — frontend-first, product-focused
+- 📺 Shipping across **Web · React Native · TV Apps**
+- 🏗 Working on internal tooling, building and shipping products & DX improvements
+- ✍️ Writing deep technical blogs on real-world system design & AI-assisted workflows
+- 📦 Publishing npm packages & GitHub Actions
+- ⚡ Comfortable owning features end-to-end — UI → APIs → CI/CD
+
+> I build systems that scale, feel fast, and improve developer productivity.
+
+---
+
+## 📦 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| [**react-native-network-inspector**](https://www.npmjs.com/package/react-native-network-inspector) | Network debugging & inspection tool for React Native apps |
+| [**awesome-react-stepper**](https://github.com/AmeyaJain-25/awesome-react-stepper) | Highly customizable multi-step component for React — published on npm |
+| [**@fancode/react-native-codepush-joystick**](https://www.npmjs.com/package/@fancode/react-native-codepush-joystick) | Developer utility for easier CodePush control in React Native |
+| [**amazon-appstore-app-upload**](https://github.com/AmeyaJain-25/amazon-appstore-app-upload) | GitHub Action to upload Android APK to Amazon Appstore |
+| [**notification-api**](https://github.com/AmeyaJain-25/notification-api) | FCM push notifications REST API built with Node.js |
+
+> Building more platform tooling & developer utilities ⚙️
+
+---
+
+## ✍️ Writing
+
+### FanCode Engineering Blogs
+
+- **Arkyn: Automating Design System Development with AI**  
+  https://engineering.fancode.com/arkyn-automating-design-system-development-with-ai-8f436ba31fa2
+
+- **Building Arkyn — Technical Deep Dive**  
+  https://engineering.fancode.com/building-arkyn-technical-deep-dive-5ce58d696578
+
+### Other Writing
+- Published articles on GeeksForGeeks
+
+---
+
+<div align="center">
+
+### Let’s build scalable, developer-friendly systems 🚀
+
+![Profile views](https://komarev.com/ghpvc/?username=AmeyaJain-25&color=blueviolet&style=flat-square)
+
+</div>
