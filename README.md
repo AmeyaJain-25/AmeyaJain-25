@@ -18,7 +18,7 @@
 - 🏢 **Software Engineer @ FanCode**
 - 🧠 Fullstack engineer — frontend-first, product-focused
 - 📺 Shipping across **Web · React Native · TV Apps**
-- 🏗 Working on internal tooling, building and shipping products & DX improvements
+- 🏗 Working on internal tooling, building and shipping products & DevX improvements
 - ✍️ Writing deep technical blogs on real-world system design & AI-assisted workflows
 - 📦 Publishing npm packages & GitHub Actions
 - ⚡ Comfortable owning features end-to-end — UI → APIs → CI/CD
